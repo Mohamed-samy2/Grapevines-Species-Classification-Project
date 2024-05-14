@@ -70,4 +70,20 @@ pretrained architectures, including **Inception**, **EfficientNet**,
 **MobileNet**, **Xception**, **Inception-ResNet** and **ViT (Vision Transformer)**, 
 adapting them to suit the requirements of our grapevine 
 leaf species classification task.
+# Model Deployment
+
+
+
+https://github.com/Mohamed-samy2/Grapevines-Species-Classification-Project/assets/92379704/01befd16-3cb0-4c28-bb3d-1cef101d51cc
+
+
+
+
+# Credits:
+- [Mohamed Samy](https://www.linkedin.com/in/mohamed-samy10/)
+- [Yomna Mohamed](https://www.linkedin.com/in/yomna-muhammed-b964a6270/)
+- [Mohamed Ashraf](https://www.linkedin.com/in/mohamed-mahran-002b9b24b/)
+- [Nadine Haitham](http://www.linkedin.com/in/nadine-elkady-4b45792b1)
+- [Ammar Mohamed](https://www.linkedin.com/in/ammar-hassan-5a16551a1/)
+- [Youssef Tamer](https://www.linkedin.com/in/youssef-eldeeb-1a4269253)
 
